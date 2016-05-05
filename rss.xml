@@ -4,7 +4,7 @@
         <description><![CDATA[Biologen]]></description>
         <link>https://thegrid.ai/biologen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 06:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 07:53:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biologen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
             <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
             <pubDate>Thu, 05 May 2016 06:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Biologen ]]></title>
-            <description><![CDATA[<article><h1>Biologen </h1><p>Trendy mathandverk i et unikt kulturlandskap</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30f0d29-5d79-4393-9b53-d28d49e77bd9.gif"></article>]]></description>
-            <link>https://thegrid.ai/biologen/biologen/index.html</link>
-            <guid isPermaLink="false">89f26048-5fda-4ec7-8b7e-fce6b477a3f8</guid>
-            <pubDate>Thu, 05 May 2016 05:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
