@@ -4,8 +4,15 @@
         <description><![CDATA[Biologen]]></description>
         <link>https://thegrid.ai/biologen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 07:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 12:31:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biologen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dette er en test.]]></title>
+            <description><![CDATA[<article><h1>Dette er en test.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png"></article>]]></description>
+            <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
+            <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
+            <pubDate>Thu, 05 May 2016 12:31:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1116123-8f8b-47a3-acdf-ba8edb6b11e5.gif">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/biologen/1e2ae52c-a6a8-44de-8f48-752535ac2eb7/index.html</link>
             <guid isPermaLink="false">1e2ae52c-a6a8-44de-8f48-752535ac2eb7</guid>
             <pubDate>Thu, 05 May 2016 06:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dette er en test.]]></title>
-            <description><![CDATA[<article><h1>Dette er en test.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png"></article>]]></description>
-            <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
-            <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
-            <pubDate>Thu, 05 May 2016 06:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
