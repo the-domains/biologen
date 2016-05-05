@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T06:01:58.302Z'
-dateModified: '2016-05-05T06:01:57.898Z'
+datePublished: '2016-05-05T12:31:10.938Z'
+dateModified: '2016-05-05T12:30:56.323Z'
 title: Dette er en test.
 author:
   - name: ''
