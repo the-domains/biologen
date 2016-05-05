@@ -1,0 +1,28 @@
+name: Biologen
+favicon: null
+layout_spectrum: 0.24877473711967468
+typography_spectrum: 0.34979166369885206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5517505661118776
+  lightness: 0.014480315847322345
+  saturation: 0.9617323537822813
+  rhythmicContrast: 0.013131757732480764
+purpose: []
