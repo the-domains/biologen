@@ -4,8 +4,15 @@
         <description><![CDATA[Trendy mathandverk i et unikt kulturlandskap]]></description>
         <link>https://thegrid.ai/biologen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 21:07:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biologen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fad6180a4df618ca0ba30f454d2d5a418d1423f.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/biologen/1e2ae52c-a6a8-44de-8f48-752535ac2eb7/index.html</link>
+            <guid isPermaLink="false">1e2ae52c-a6a8-44de-8f48-752535ac2eb7</guid>
+            <pubDate>Thu, 05 May 2016 21:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biologen ]]></title>
             <description><![CDATA[<article><h1>Biologen </h1><p>Trendy mathandverk i et unikt kulturlandskap</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b30f0d29-5d79-4393-9b53-d28d49e77bd9.gif"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
             <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
             <pubDate>Thu, 05 May 2016 20:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fad6180a4df618ca0ba30f454d2d5a418d1423f.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/biologen/1e2ae52c-a6a8-44de-8f48-752535ac2eb7/index.html</link>
-            <guid isPermaLink="false">1e2ae52c-a6a8-44de-8f48-752535ac2eb7</guid>
-            <pubDate>Thu, 05 May 2016 06:09:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
