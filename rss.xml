@@ -4,8 +4,15 @@
         <description><![CDATA[Biologen]]></description>
         <link>https://thegrid.ai/biologen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 06:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 06:03:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biologen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b424f6dd-6e6b-4522-b7b0-270c420f4ca2.png">]]></description>
+            <link>https://thegrid.ai/biologen/1e2ae52c-a6a8-44de-8f48-752535ac2eb7/index.html</link>
+            <guid isPermaLink="false">1e2ae52c-a6a8-44de-8f48-752535ac2eb7</guid>
+            <pubDate>Thu, 05 May 2016 06:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dette er en test.]]></title>
             <description><![CDATA[<article><h1>Dette er en test.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png"></article>]]></description>
