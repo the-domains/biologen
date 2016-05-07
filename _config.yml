@@ -1,41 +1,41 @@
-name: Biologen
-favicon: null
-layout_spectrum: 0.24055
-typography_spectrum: 0.43436
 title: 'Entusiasme, glede & en smule galskap!'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.706383
+  brandStrength: 0.125
+  rhythmicContrast: 0.2297872
   brandColors:
     - '#000000'
     - '#313131'
     - '#737373'
     - '#b5b5b5'
     - '#e1e1e1'
-  brandStrength: 0.125
   lightness: 0.9425532
-  saturation: 0.706383
-  rhythmicContrast: 0.2297872
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Biologen
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.43436
+layout_spectrum: 0.7319149
