@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3680851
+  saturation: 1
   brandStrength: 0.6875
-  lightness: 0.5340425
+  lightness: 0.3148936
   brandColors:
     - '#F3F4F6'
     - '#1C1C1D'
     - '#DE8400'
     - '#C84300'
     - '#8BAE4E'
-  rhythmicContrast: 0.5957447
+  rhythmicContrast: 0.8510638
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Biologen
+favicon: null
 opengraph:
   image: null
   type: null
