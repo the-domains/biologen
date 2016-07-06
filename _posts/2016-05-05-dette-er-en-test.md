@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T20:48:40.310Z'
-dateModified: '2016-05-05T20:47:52.950Z'
+datePublished: '2016-07-06T20:55:46.795Z'
+dateModified: '2016-07-06T19:01:04.348Z'
 title: Dette er en test.
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-05-dette-er-en-test.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: dette-er-en-test/index.html
 _type: Article
