@@ -1,5 +1,8 @@
+name: Biologen
+favicon: null
+layout_spectrum: 0.10017
+typography_spectrum: 0.5106383
 title: Biologen
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.806383
-  brandStrength: 0.8021277
-  lightness: 0.2340426
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#303030'
     - '#8A8A8A'
     - '#ADADAD'
+  brandStrength: 0.8021277
+  lightness: 0.2340426
+  saturation: 0.806383
   rhythmicContrast: 0.2042553
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Biologen
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5106383
-layout_spectrum: 0
+purpose: []
