@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T20:55:46.795Z'
-dateModified: '2016-07-06T19:01:04.348Z'
-title: Dette er en test.
+datePublished: '2016-07-06T21:07:45.307Z'
+dateModified: '2016-07-06T21:07:16.452Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -20,5 +20,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png)
-
-# Dette er en test.
