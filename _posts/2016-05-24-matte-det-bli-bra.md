@@ -1,15 +1,22 @@
 ---
-author: []
-title: Måtte det bli bra
-dateModified: '2016-05-24T22:52:00.994Z'
-datePublished: '2016-05-24T22:52:26.420Z'
-description: Lenge har eg ventet på det rette medium for gode sider.
-starred: false
-sourcePath: _posts/2016-05-24-matte-det-bli-bra.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
+description: Lenge har eg ventet på det rette medium for gode sider.
+datePublished: '2016-07-09T17:28:17.683Z'
+dateModified: '2016-07-09T17:21:37.911Z'
+author:
+  - name: ''
+    url: ''
+title: Måtte det bli bra
+sourcePath: _posts/2016-05-24-matte-det-bli-bra.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
 # Måtte det bli bra
