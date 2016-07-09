@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Lenge har eg ventet på det rette medium for gode sider.
-datePublished: '2016-07-09T17:28:17.683Z'
-dateModified: '2016-07-09T17:21:37.911Z'
+datePublished: '2016-07-09T17:31:04.703Z'
+dateModified: '2016-07-09T17:31:04.243Z'
 author:
   - name: ''
     url: ''
