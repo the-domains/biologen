@@ -5,15 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T21:07:45.307Z'
-dateModified: '2016-07-06T21:07:16.452Z'
+datePublished: '2016-08-07T21:49:05.707Z'
+dateModified: '2016-08-07T21:48:59.315Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-05-dette-er-en-test.md
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: dette-er-en-test/index.html
 _type: Article
