@@ -4,7 +4,7 @@
         <description><![CDATA[Biologen]]></description>
         <link>https://thegrid.ai/biologen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 13:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 21:49:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biologen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biologen ]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Sat, 09 Jul 2016 17:30:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dette er en test.]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
+            <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
+            <pubDate>Sun, 07 Aug 2016 21:49:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Entusiasme, glede & en smule galskap]]></title>
             <description><![CDATA[<article><h1>Entusiasme, glede & en smule galskap</h1><p>Se våre deilige menyer for selskap og catering.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c4af939-4bf3-437f-a7a6-01f3e662d17a.jpg"></article>]]></description>
             <link>https://thegrid.ai/biologen/entusiasme-glede-and-en-smule-galskap/index.html</link>
             <guid isPermaLink="false">d47af01d-52ea-4603-b0bd-5674e3a90ce8</guid>
             <pubDate>Fri, 15 Jul 2016 13:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dette er en test.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49879719-9afb-46f2-9761-436b65b2f6ff.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/biologen/dette-er-en-test/index.html</link>
-            <guid isPermaLink="false">14daab5b-8c5b-4b24-be70-9b9feb44120a</guid>
-            <pubDate>Wed, 06 Jul 2016 21:07:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
