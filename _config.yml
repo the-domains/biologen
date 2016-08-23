@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'Entusiasme, glede & en smule galskap'
+    id: d47af01d-52ea-4603-b0bd-5674e3a90ce8
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
 collections:
