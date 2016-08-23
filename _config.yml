@@ -1,8 +1,31 @@
-name: Biologen
-favicon: null
-layout_spectrum: 0.74124
 typography_spectrum: 0.93301
-title: Biologen
+color:
+  brandColors:
+    - '#4f5666'
+    - '#d0dcf2'
+    - '#a7b6cd'
+    - '#171c18'
+    - '#9e9993'
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74124
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Biologen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#4f5666'
-    - '#d0dcf2'
-    - '#a7b6cd'
-    - '#171c18'
-    - '#9e9993'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.125
-  rhythmicContrast: 0.25
+title: Biologen
 purpose: []
