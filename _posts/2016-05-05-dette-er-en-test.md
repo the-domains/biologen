@@ -1,24 +1,20 @@
 ---
+datePublished: '2016-08-23T13:14:04.101Z'
+sourcePath: _posts/2016-05-05-dette-er-en-test.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-07T21:49:05.707Z'
-dateModified: '2016-08-07T21:48:59.315Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-05-05-dette-er-en-test.md
 via: {}
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+dateModified: '2016-08-23T13:14:03.591Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: dette-er-en-test/index.html
 _type: Article
