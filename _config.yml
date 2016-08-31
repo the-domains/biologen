@@ -1,35 +1,12 @@
-typography_spectrum: 0.93301
-color:
-  brandColors:
-    - '#4f5666'
-    - '#d0dcf2'
-    - '#a7b6cd'
-    - '#171c18'
-    - '#9e9993'
-  brandStrength: 0.75
-  lightness: 0.5625
-  saturation: 0.125
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.74124
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: Biologen
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
+layout_spectrum: 0.32054
+typography_spectrum: 0.93301
 navigation:
   - name: 'Entusiasme, glede & en smule galskap'
     id: d47af01d-52ea-4603-b0bd-5674e3a90ce8
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
 collections:
   - index:
       path: /
@@ -44,4 +21,27 @@ collections:
       path: '/:title/'
 title: Biologen
 description: 'Entusiasme, Glede & En smule galskap'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#4f5666'
+    - '#d0dcf2'
+    - '#a7b6cd'
+    - '#171c18'
+    - '#9e9993'
+  brandStrength: 0.8125
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
