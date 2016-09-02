@@ -28,20 +28,20 @@ navigation:
   - name: 'Entusiasme, glede & en smule galskap'
     id: d47af01d-52ea-4603-b0bd-5674e3a90ce8
     type: content
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Biologen
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.43718
-layout_spectrum: 0.64441
+layout_spectrum: 0
