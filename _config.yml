@@ -1,5 +1,38 @@
-title: Biologen
-purpose: []
+typography_spectrum: 0.43718
+color:
+  saturation: 0.6914893
+  brandStrength: 0.2234043
+  lightness: 0.4042553
+  brandColors:
+    - '#111111'
+    - '#969791'
+    - '#675642'
+    - '#BEBFB9'
+    - '#FFFFFF'
+  rhythmicContrast: 0.1212766
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Biologen
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: 'Entusiasme, glede & en smule galskap'
+    id: d47af01d-52ea-4603-b0bd-5674e3a90ce8
+    type: content
+  - name: Sjøkreps fra Herdla
+    id: 6f6cdd30-9040-417d-8e36-d745c3d174ac
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
 collections:
   - index:
       path: /
@@ -12,36 +45,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Biologen
 description: 'Entusiasme, Glede & En smule galskap'
-color:
-  saturation: 0.6914893
-  brandStrength: 0.2234043
-  lightness: 0.4042553
-  brandColors:
-    - '#111111'
-    - '#969791'
-    - '#675642'
-    - '#BEBFB9'
-    - '#FFFFFF'
-  rhythmicContrast: 0.1212766
-navigation:
-  - name: 'Entusiasme, glede & en smule galskap'
-    id: d47af01d-52ea-4603-b0bd-5674e3a90ce8
-    type: content
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/59b92473-9fcf-4d1a-b7ec-6c37390a506c.png
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Biologen
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.43718
-layout_spectrum: 0
+purpose: []
